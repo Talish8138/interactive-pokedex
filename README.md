@@ -21,4 +21,4 @@ This is my first ever project and ,I built this project to demonstrate my transi
 3. Run the application: `python -m streamlit run app.py`
 
 ## 📸 Preview
-*(We will upload a screenshot of your working app here later!)*
+![App Preview](preview.png)
