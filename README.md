@@ -10,10 +10,10 @@ A simple, dynamic web dashboard that fetches live Pokemon data using the officia
 ## ✨ Features
 * **Live API Integration:** Fetches real-time JSON data securely from an external database.
 * **Instant Search:** Allows users to input any Pokemon name to retrieve its stats immediately.
-* **Visual Data Parsing:** Extracts and displays official artwork, height, and weight from nested data structures.
+* **Visual Data Parsing:** Navigates nested lists and dictionaries to dynamically extract and display official artwork, elemental types, and unique powers (abilities).
 
 ## 🧠 The Process & What I Learned
-I built this project to demonstrate my transition from learning basic Python concepts to building functional, interactive applications for the GDG RNSIT 2026 recruitment. Through this project, I learned how to handle HTTP requests, parse complex JSON dictionaries, and use Streamlit to rapidly deploy a web interface without needing HTML or CSS.
+This is my first ever project and ,I built this project to demonstrate my transition from learning basic Python concepts to building functional, interactive applications for the GDG RNSIT 2026 recruitment. Through this project, I learned how to handle HTTP requests, parse complex JSON dictionaries, and use Streamlit to rapidly deploy a web interface without needing HTML or CSS.
 
 ## 🚀 How to Run Locally
 1. Clone this repository to your local machine.
